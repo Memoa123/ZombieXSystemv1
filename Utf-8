@@ -64,7 +64,7 @@ client.on('message', message => {
 
 
 const prefix = "$"
-const developers = ""
+const developers = "696229537934999592"
 
 
 
@@ -80,7 +80,7 @@ const developers = ""
      const embed = new Discord.RichEmbed()
          .setColor('#36393e')
          .setTitle('ســيرفرنا حيــاك الله')
-         .setURL('https://discord.gg/HQ3hu3p')
+         .setURL('https://discord.gg/934AxY2')
          .setDescription(`
          \`\`\`Main Commands  :\`\`\`         
          
@@ -150,8 +150,6 @@ const developers = ""
 
 
 
-**رابط شرح كيفيه عمل البوت على قناتي في اليوتيوب**
-https://www.youtube.com/channel/UC_MsQabWHZKBXh4TvZenyTw
 
          
 `)
